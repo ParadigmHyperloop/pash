@@ -67,4 +67,4 @@ $ ./my_test
 
 # License
 
-REVISED 3 CLAUSE BSD LICENSE
+BSD 3-Clause License
